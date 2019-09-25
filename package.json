@@ -1,0 +1,30 @@
+{
+  "name": "mail-worker",
+  "version": "1.0.0",
+  "description": "a mail existence checker in node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MinSiThu/mail-worker.git"
+  },
+  "keywords": [
+    "mail",
+    "exist",
+    "check",
+    "javascript",
+    "node.js"
+  ],
+  "author": "min si thu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MinSiThu/mail-worker/issues"
+  },
+  "homepage": "https://github.com/MinSiThu/mail-worker#readme",
+  "dependencies": {
+    "email-validator": "^2.0.4",
+    "extract-domain": "^2.2.1"
+  }
+}
